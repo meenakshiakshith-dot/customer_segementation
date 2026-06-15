@@ -1,0 +1,6 @@
+segment,Count,Avg_Age,Avg_Income,Avg_Spend,Avg_Frequency,Avg_Loyalty,Avg_ChurnRisk,Online_Ratio
+At-Risk Inactives,92,49.49,80850.79,11066.91,5.29,47.76,0.53,0.54
+Budget Loyalists,119,28.86,41176.85,4178.54,2.89,69.54,0.29,0.51
+Casual Browsers,146,43.1,54619.79,4486.25,4.55,18.68,0.82,0.51
+High-Value VIPs,43,33.84,65311.07,8975.77,1.47,53.33,0.43,0.52
+Premium Explorers,100,58.24,54365.13,4336.06,6.25,73.41,0.26,0.47
